@@ -4,7 +4,9 @@ body {
     padding: 0;
     margin: 0;
     text-align: center;
+    width: 100%;
 }
+
 nav {
     background-color: black;
     display: flex;
@@ -12,57 +14,133 @@ nav {
     align-items: center;
     font-family: Oswald, Helvetica, Arial, sans-serif;
     }
-    
 
-/* Tablet styles */
-@media screen and (min-width: 481px) and (max-width: 960px) {
-body {
-    
+header {
+        text-align: center;
+        font-family: Noto Sans JP, Helvetica, Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+    }
+
+h1 {
+    padding: 0;
+    margin: 0;
 }
+
+h2  {
+    padding: 0;
+    margin: 0;
 }
-/* Desktop styles */
-@media screen and (min-width: 961px) {
-    body {
-     
-        
-    } 
- }
 
 a:link, a:visited, a:hover {
     color: #F9F9F5;
     text-decoration: none;
 }
 
-header {
-    text-align: center;
-    font-family: Noto Sans JP, Helvetica, Arial, sans-serif;
+
+section {
+    
 }
 
+/* footer */
 footer {
 display: flex;
+flex: 1;
 justify-content: center;
-align-items: flex-end;
+align-content: flex-end;
 font-family: Helvetica, Arial, sans-serif;
+font-size: 10px;
 }
   
 /* Social media links */
 .socials {
         width: 30px;
         height: 30px;
+        padding: 5px;
+        margin-bottom: 20px;
     }
+.socials:hover {
+    background-color: white;
+    transition: .7s;
+}
 .scrollbox {
 
 }
-    /* Photo on Front page */
-#front-photo {
-    width: 600px;
-    height: 400px;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
+    
+/* Photo on Front page */
+#home-photo {
+    width: 310px;
+    height: 200px;
+    border: 2px solid black;
+    padding: 1px;
+    margin: 30px;
+    
 }
-/* Photo on Bio Page */
-#bio-photo {
+/* Section containing main content on bio page */
+#biography-section {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Text on bio page */
+#bio-text {
     width: 300px;
     height: 200px;
+    border: 1px solid black;
+    margin: 5px;
+    font-family: Helvetica;
+    padding: 10px;
 }
+
+#bio-text:hover {
+    background-color: white;
+    transition: .7s;
+}
+
+/* Photo on Bio Page */
+#bio-photo {
+    width: 321px;
+    height: 200px;
+    border: 1px solid black;
+}
+/* Highlight for Navbar */
+.topnav:hover { 
+    background-color: #F9F9F5; 
+    color: black; 
+    transition: .7s;
+}
+
+/* Tablet styles */
+   @media screen and (min-width: 481px) and (max-width: 960px) {
+    #home-photo {
+        width: 600px;
+        height: 400px;
+    }
+    }
+
+/* Desktop styles */
+    @media screen and (min-width: 961px) {
+            #home-photo {
+                width: 600px;
+                height: 400px;
+        } 
+        footer: {
+            font-size: 15px;
+            padding: 0;
+            margin: 0;
+        }
+        #biography-section {
+            flex-direction: row;
+        }
+        #bio-text {
+            width: 600px;
+            height: 400px;
+        }
+        
+        #bio-photo {
+            width: 600px;
+            height: 400px;
+        }
+     }
