@@ -1,3 +1,9 @@
+commit 3a204e6ff7ce53f1e8b369fdc59fd5bdc51c5e54
+Author: Jordan Bradley <jordanbradley@Jordans-MacBook-Pro.local>
+Date:   Thu Sep 3 17:50:45 2020 +1000
+
+    final commit, fixed technical issues
+
 commit aa6b03184a9a251fcac2c5fb4f78c04fae894949
 Author: Jordan Bradley <jordanbradley@Jordans-MacBook-Pro.local>
 Date:   Thu Sep 3 17:09:00 2020 +1000
