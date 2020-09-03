@@ -2,9 +2,9 @@
 ##Portfolio Assessment
 This document was written on Wed, September 2 and 3, 2020.
 <br>
-[www.website.com](www.website.com)
+[GitHub](www.website.com)
 <br>
-[www.edportfolio.com](www.edportfolio.com)
+[ED WorkSpace](https://edstem.org/courses/4464/workspaces/pcOZMgaYLQeRBqEdGics7gnu3GF62ZWI)
 <br>
 #Descriptive contents 
 ##(functionality / features):

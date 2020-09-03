@@ -1,0 +1,53 @@
+commit aa6b03184a9a251fcac2c5fb4f78c04fae894949
+Author: Jordan Bradley <jordanbradley@Jordans-MacBook-Pro.local>
+Date:   Thu Sep 3 17:09:00 2020 +1000
+
+    final github push
+
+commit 3fd62724953b2afc14e1a0e3b4547aacedd507af
+Author: Jordan Bradley <jordanbradley@Jordans-MBP.lan>
+Date:   Thu Sep 3 15:34:12 2020 +1000
+
+    edited link paths and semantic tags
+
+commit 26e23e4dbab2714ba8b371bd2211dc9fc50733e1
+Author: Jordan Bradley <jordanbradley@Jordans-MacBook-Pro.local>
+Date:   Wed Sep 2 16:36:09 2020 +1000
+
+    comments added, including readme repository, almost done
+
+commit bcb7e962e843785132f2e601968541fb35541f68
+Author: Jordan Bradley <jordanbradley@Jordans-MacBook-Pro.local>
+Date:   Wed Sep 2 14:09:47 2020 +1000
+
+    finalised style and layout, almost done
+
+commit 2d52d049641f2dbc2ac03f7a25c202844c89f681
+Author: Jordan Bradley <jordanbradley@Jordans-MBP.lan>
+Date:   Tue Sep 1 22:36:17 2020 +1000
+
+    finished styling main and bio, fixed layout on blog and portfolio
+
+commit edec20f93666a965ba469648a7dfc6c4a862f76d
+Author: Jordan Bradley <jordanbradley@Jordans-MBP.lan>
+Date:   Mon Aug 31 18:06:23 2020 +1000
+
+    further stylisation, initial flex experimentation
+
+commit 90b24fd344ab70d160afb0ca57042178e7561588
+Author: Jordan Bradley <jordanbradley@Jordans-MacBook-Pro.local>
+Date:   Mon Aug 31 13:50:25 2020 +1000
+
+    re-initialized according to mobile styles first
+
+commit d4585c19f87edf288e7b49dc6fc3d5387707cc8f
+Author: Jordan Bradley <jordanbradley@Jordans-MBP.lan>
+Date:   Sun Aug 30 20:14:35 2020 +1000
+
+    worked on layouts for home, blog and portfolio, slight CSS styling
+
+commit b062f90d5837e75355eb6343a96a5e2ec1960b3a
+Author: Jordan Bradley <jordanbradley@Jordans-MBP.lan>
+Date:   Fri Aug 28 14:20:20 2020 +1000
+
+    initial staging for files and templates
