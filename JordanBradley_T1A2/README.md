@@ -2,7 +2,7 @@
 ##Portfolio Assessment
 This document was written on Wed, September 2 and 3, 2020.
 <br>
-[GitHub](www.website.com)
+[Deployed page on Netlify.](https://lucid-montalcini-cb1667.netlify.app/)
 <br>
 [ED WorkSpace](https://edstem.org/courses/4464/workspaces/pcOZMgaYLQeRBqEdGics7gnu3GF62ZWI)
 <br>
@@ -111,4 +111,4 @@ Ideally, it would be people who would like to employ me or use my services in th
 
 #Tech Stack
 The project in its current form features 5 pages of HTML and 1 page of CSS, as well as 10 featured images (3 vectors, 7 personal photos).
-The deployment platform is GitHub.
+The deployment platform is Netlify.
